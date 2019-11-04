@@ -39,7 +39,7 @@ function [P,Y,Zsa,Pa,Ya,stats] = NSGA3(generations,...
 %
 % OUTPUTS
 %
-% P = Final serach population
+% P = Final search population
 % Y = Objective values of final serach population
 % Zsa = Projection of P (refer to Deb and Jai's work)
 % Pa = Non-dominated subset of P
