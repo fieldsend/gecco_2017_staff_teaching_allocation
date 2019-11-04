@@ -26,6 +26,8 @@ function [P,Y,Zsa,Pa,Ya,stats] = NSGA3(generations,...
 % M = Input dimension of problem
 % data = structure holding bounds to be used if preset bounds 
 %   argument is 1 (l_bound and u_bound vectors for problem dimension)
+%   and any additional project specific data (e.g. staff/module data
+%   for staff allocation optimisation)
 % passive_archive = OPTIONAL ARGUMENT (set at 1 if not
 %    provided). If equal to 1 a passive archive tracking best
 %    solutions evaluated during run is maintained and returned
