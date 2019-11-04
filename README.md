@@ -10,5 +10,5 @@ https://ore.exeter.ac.uk/repository/handle/10871/27158
 https://doi.org/10.1145/3071178.3071230
 
 For (hopefully) obvious confidentiality reasons I won't be distributing the underlying data, 
-however I'll be putting up the matlab implementation of NSGA-III and relevant cost functions 
-as cleaned and properly documented
+however this repo holds the matlab implementation of NSGA-III and relevant cost functions 
+and specialised operators.
